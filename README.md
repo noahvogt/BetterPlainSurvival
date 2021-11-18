@@ -1,9 +1,9 @@
 ![logo](logo.png)
-# BetterPlainSurvival-1.16
+# BetterPlainSurvival 1.16 / 1.17
 
-This is a **modpack** (installer) for Minecraft 1.16 designed to archieve a more convenient playing experience **without changing any vanilla behaviour**: This modpack is *entirely client-sided*. It should be *almost multiplayer proof* ([FVT-fabric](https://github.com/Flourick/FVT-fabric) is the only concern as it has built-in 'hacking' features like freecam that are forbidden on most mutliplayer servers).
+This is a **modpack** (installer) for Minecraft both 1.16 and 1.17 designed to archieve a more convenient playing experience **without changing any vanilla behaviour**: This modpack is *entirely client-sided*. It should be *almost multiplayer proof* ([FVT-fabric](https://github.com/Flourick/FVT-fabric) is the only concern as it has built-in 'hacking' features like freecam that are forbidden on most mutliplayer servers).
 
-BetterPlainSurvival-1.16 uses [Fabric](https://fabricmc.net/) as its mod loder and some its + addidional librarys.
+BetterPlainSurvival uses [Fabric](https://fabricmc.net/) as its mod loder and some its + addidional librarys.
 
 ## Why does this exist?
 
@@ -20,7 +20,7 @@ I would hope more people in the modding scene would also do something against th
 * NEI-like mod to search item and their recipes
 * ingame account changer
 * simple HUD for FPS + coordinates
-* various performance improvement mods: [sodium](https://github.com/CaffeineMC/sodium-fabric), [phosphor](https://github.com/CaffeineMC/phosphor-fabric) and [lithium](https://github.com/CaffeineMC/lithium-fabric)
+* various performance improvement mods: [sodium](https://github.com/CaffeineMC/sodium-fabric), [phosphor](https://github.com/CaffeineMC/phosphor-fabric) and [lithium](https://github.com/CaffeineMC/lithium-fabric) *Note: only on 1.16*
 * a full advancements progress viewer (e.g. list of all biomes you've been in)
 * option to disable nether fog
 * advanced, various OptiFine-like graphics settings
