@@ -11,6 +11,12 @@ You may point out the fact that there is a already a popular website ([curseforg
 
 I would hope more people in the modding scene would also do something against this current state of affairs. But they seem to be more concerned about wasting their time playing video games.
 
+## Usage
+
+```sh
+./install.sh FILE_LIST_FILE MODS_DESTINATION_DIRECTORY
+```
+
 ## Features
 * a zoom feature which has a smooth animation
 * static crosshair color (you can set)
